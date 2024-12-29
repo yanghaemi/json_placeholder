@@ -1,0 +1,19 @@
+{
+  "posts": [
+    { "id": 1, "title": "Post 1" },
+    { "id": 2, "title": "Post 2" },
+    { "id": 3, "title": "Post 3" },
+    { "id": 1, "title": "Post 4" },
+    { "id": 1, "title": "Post 5" }
+  ],
+  "comments": [
+    { "id": 1, "body": "양해미", "postId": 0105 },
+    { "id": 2, "body": "송영은", "postId": 1101 },
+    { "id": 3, "body": "강지웅", "postId": 0206 },
+    { "id": 4, "body": "오현지", "postId": 0822 },
+    { "id": 2, "body": "윤정섭", "postId": 0111 }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
