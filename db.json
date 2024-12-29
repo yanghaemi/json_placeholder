@@ -1,19 +1,34 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" },
-    { "id": 4, "title": "Post 4" },
-    { "id": 5, "title": "Post 5" }
-  ],
-  "comments": [
-    { "id": 1, "body": "양해미", "postId": 105 },
-    { "id": 2, "body": "송영은", "postId": 1101 },
-    { "id": 3, "body": "강지웅", "postId": 206 },
-    { "id": 4, "body": "오현지", "postId": 822 },
-    { "id": 5, "body": "윤정섭", "postId": 111 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+    "1": [
+        {
+            "id": 1,
+            "name": "양해미",
+            "month": "01",
+            "day": "05"
+        },
+        {
+            "id": 2,
+            "name": "송영은",
+            "month": "11",
+            "day": "01"
+        },
+        {
+            "id": 3,
+            "name": "강지웅",
+            "month": "11",
+            "day": "01"
+        },
+        {
+            "id": 4,
+            "name": "오현지",
+            "month": "08",
+            "day": "22"
+        },
+        {
+            "id": 5,
+            "name": "윤정섭",
+            "month": "01",
+            "day": "11"
+        }
+    ]
 }
